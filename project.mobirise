@@ -22,7 +22,7 @@
       }
     },
     "versionFirst": "3.12.1",
-    "uniqCompNum": 24,
+    "uniqCompNum": 29,
     "versionPublish": "3.12.1"
   },
   "pages": {
@@ -119,8 +119,8 @@
               "size": 0
             }
           },
-          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OmniEshops OmniCoin &nbsp;PreSale</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#header1-0\">Home</a></li><li class=\"nav-item dropdown open\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" href=\"index.html#header1-0\" data-toggle=\"dropdown-submenu\" aria-expanded=\"true\">Useful links</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">About US</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Contact Us</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">Our Market</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\"></a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"#\">F.A.Q</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html#msg-box4-2\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html#msg-box4-2\">BETA RELEASE</a></li>"
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">OmniCoin &nbsp;Crowndsale</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-o\">Company</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#msg-box8-o\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-warning\" href=\"index.html#msg-box4-2\">INVEST NOW</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html#msg-box4-2\">WHITE PAPER</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white\" href=\"index.html#msg-box4-2\">BETA RELEASE</a></li>"
         },
         {
           "_tags": [
@@ -156,9 +156,9 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "OmniCoin &nbsp;presale",
-          "text": "A fully ERC20 compliant token. <br>Required by ours customers to pay for special services.<br>Sell OmniCoins to ours customers and buy back with 10% off. <br>Always.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">INVEST NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>WHAT IS OmniEshops?</a> "
+          "title": "OmniCoin &nbsp;Crowndsale",
+          "text": "Required by ours customers to use special services.<br>Sell <b>OmniCoin</b> to ours customers and buy back with 10% off. <br>Always.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-warning\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">INVEST NOW</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\">BETA RELEASE</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-black\" href=\"index.html#features3-4\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-video mbr-iconfont mbr-iconfont-btn\"></span>WHAT IS OmniEshops?</a> "
         },
         {
           "_styles": {
@@ -182,7 +182,7 @@
             "showMeta": true
           },
           "title": "What is OmniEshops?&nbsp;",
-          "meta": "A lot of innovations built in.<br>"
+          "meta": "More than an online store creator.<br>"
         },
         {
           "_inherit": "msg-box5",
@@ -205,7 +205,7 @@
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#F2F2F2",
+            "bgColor": "#f7da64",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -237,9 +237,9 @@
               "size": 250
             }
           },
-          "title": "More than a online store creator.",
+          "title": "Connected &nbsp;inventories",
           "text": "<p>OmniEshops provide a free online store <b>with an amazing feature, </b>ours stores allow sellers to publish their entire inventoy in others stores, this feature create a boost in organic results, since inventorys can be listed in hundreds other stores.<br> <br>Ours customers will need to use <b>OmniCoin</b> to promote their catalogs to others stores, and get listed to.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">SEE OUR BETA RELEASE</a>"
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-white\" href=\"index.html#header3-3\" data-toolbar=\"-mbrBtnMove\">SEE OUR BETA RELEASE IN ACTION</a>"
         },
         {
           "_styles": {
@@ -256,10 +256,10 @@
             "paddingTop": 1,
             "paddingBottom": 1,
             "bgColor": "#fff",
-            "showMeta": false
+            "showMeta": true
           },
           "title": "We already have a market for OmniCoin.",
-          "meta": "By John Smith posted July 20, 2016"
+          "meta": "For each U$ 100.00 spent on marketing we get a new profitable customer."
         },
         {
           "_styles": {
@@ -317,7 +317,7 @@
               "family": "et-line"
             }
           },
-          "title1": "HARD CAPPED FLOOR",
+          "title1": "CAP FLOOR",
           "subtitle1": "Bootstrap 4 has been noted",
           "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
           "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">5.000 ETH</a>",
@@ -335,7 +335,7 @@
           "title2": "VERY LIMITED NUMBER OF TOKENS",
           "subtitle2": "One of Bootstrap 4's big points",
           "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">only 2000 PER ETH</a>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">only 1000 PER ETH</a>",
           "media3": {
             "iconFont": {
               "active": true,
@@ -347,10 +347,10 @@
               "family": "et-line"
             }
           },
-          "title3": "HARD CAPPED CEILING",
+          "title3": "CAP CEILING",
           "subtitle3": "Google has a highly exhaustive list of fonts",
           "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">50.000 ETH</a>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-black\" data-toolbar=\"-mbrBtnMove\">100.000 ETH</a>",
           "media4": {
             "iconFont": {
               "active": true,
@@ -403,6 +403,19 @@
             "Theme"
           ],
           "_name": "msg-box4",
+          "_styles": {
+            "H3": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "font-size": "36px",
+              "text-align": "center"
+            },
+            "P": {
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
+              "text-align": "left"
+            }
+          },
           "_anchor": "msg-box4-n",
           "_params": {
             "imageSize": "57",
@@ -423,7 +436,7 @@
             "inverse": false,
             "showTitle": true,
             "showText": true,
-            "showButtons": false
+            "showButtons": true
           },
           "media": {
             "image": {
@@ -444,20 +457,142 @@
             }
           },
           "title": "OmniCoin market place",
-          "text": "<p>Using our build-in TradeToken exchange our customer get access to buy OmniCoins to promote theirs products.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ICO investors always get 10% off.&nbsp;</span></p><p>Working in progress: <b>https://github.com/OmniEshops/TokenTrader</b></p><p>Of course they can buy from any other exchange too.</p>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
+          "text": "<p>Using our build-in TradeToken exchange our customer get access to buy <b>OmniCoin</b> required to promote theirs products.</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">ICO investors always get 10% off.&nbsp;</span></p><p>Working in progress: <b>https://github.com/OmniEshops/TokenTrader</b></p><p>Of course they can buy from any other exchange too...</p>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DEMO ACCESS</a>"
+        },
+        {
+          "_inherit": "msg-box8",
           "_styles": {
-            "H3": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "font-size": "36px"
-            },
-            "P": {
-              "font-family": "'Roboto', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700",
-              "text-align": "left"
+            ".mbr-section-title, p": {
+              "color": "#000"
             }
-          }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box3",
+          "_anchor": "msg-box3-s",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/desert.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": true,
+            "showButton": true
+          },
+          "title": "Company",
+          "text": "<p><b>OmniEshops</b> is made by <b>DLC international business</b>, a company founded in 2014, located in beautiful and sunny Florida.&nbsp;</p><p><span style=\"font-size: 1.07rem; line-height: 1.5;\">Our <b>product mission</b> is to give online visibility to small business trough cooperation.&nbsp;</span></p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-black\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">https://www.omnieshops.com/</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "testimonial": [
+            {
+              "text": "<p><b>Lauro Cesar</b></p><p>Co-founder of DLC international Business</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/avatar-130x160.png",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Abanoub S.",
+              "authorBio": "User"
+            },
+            {
+              "text": "<p><b>Danielle R Rossi</b></p><p>Co-founder of DLC international Business&nbsp;</p>",
+              "media": {
+                "image": {
+                  "src": "@PROJECT_PATH@/assets/images/mbr-160x104.jpg",
+                  "class": "img-circle",
+                  "height": 160,
+                  "width": 160,
+                  "active": true,
+                  "link": "",
+                  "alt": "",
+                  "title": "",
+                  "linkInNewWindow": false
+                }
+              },
+              "authorName": "Suffian A.",
+              "authorBio": "User"
+            }
+          ],
+          "_anchor": "testimonials1-r",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/landscape2.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "count": "2",
+            "showImages": true,
+            "showName": false,
+            "showBio": false
+          },
+          "title": "Founders",
+          "subtitle": "<b>Get more information with our White Paper.</b>"
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, p": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box8",
+          "_anchor": "msg-box8-o",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "1",
+            "parallax": true,
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/mbr-2000x1424.jpg",
+            "bgColor": "#F2F2F2",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showText": false,
+            "showButton": true
+          },
+          "title": "Frequently asked questions",
+          "text": "<p>Article header with background image and parallax effect.</p>",
+          "button": "<a data-app-btn=\"true\" class=\"btn btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\"><span class=\"mbri-help mbr-iconfont mbr-iconfont-btn\"></span>SEND YOUR QUESTION</a> "
         },
         {
           "_styles": {
@@ -501,7 +636,7 @@
               }
             }
           },
-          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\">SUBSCRIBE</a>"
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBSCRIBE</a>"
         },
         {
           "_inherit": "social-buttons2",
@@ -529,6 +664,49 @@
           },
           "text": "FOLLOW US",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/mobirise\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/pages/Mobirise/1616226671953247\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Google+\" target=\"_blank\" href=\"https://plus.google.com/u/0/+Mobirise/posts\"><i class=\"socicon socicon-googleplus\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"YouTube\" target=\"_blank\" href=\"https://www.youtube.com/channel/UCt_tncVAetpK5JeM8L-8jyw\"><i class=\"socicon socicon-youtube\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Instagram\" target=\"_blank\" href=\"https://instagram.com/mobirise/\"><i class=\"socicon socicon-instagram\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Pinterest\" target=\"_blank\" href=\"https://www.pinterest.com/mobirise/\"><i class=\"socicon socicon-pinterest\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Tumblr\" target=\"_blank\" href=\"http://mobirise.tumblr.com/\"><i class=\"socicon socicon-tumblr\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/mobirise\"><i class=\"socicon socicon-linkedin\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"VKontakte\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-vkontakte\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Odnoklassniki\" target=\"_blank\" href=\"#\"><i class=\"socicon socicon-odnoklassniki\"></i></a> "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-p",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/logo-english-copy-128x128.png",
+              "width": 128,
+              "active": true,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<strong>Address</strong><br>\n1234 Street Name<br>\nCity, AA 99999",
+          "text2": "<strong>Contacts</strong><br>\nEmail: ico@omnieshops.com<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text3": "<strong>Links</strong><br>\nWebsite builder<br>\nDownload for Windows<br>\nDownload for Mac",
+          "_styles": {
+            "P": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }

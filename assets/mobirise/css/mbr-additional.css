@@ -518,10 +518,19 @@ h6,
 #msg-box4-n H3 {
   font-family: 'Roboto', sans-serif;
   font-size: 36px;
+  text-align: center;
 }
 #msg-box4-n P {
   font-family: 'Roboto', sans-serif;
   text-align: left;
+}
+#msg-box3-s .mbr-section-title,
+#msg-box3-s p {
+  color: #000;
+}
+#msg-box8-o .mbr-section-title,
+#msg-box8-o p {
+  color: #fff;
 }
 #form2-h .mbr-section-title {
   color: #fff;
@@ -532,4 +541,7 @@ h6,
 #social-buttons4-g .mbr-section-title,
 #social-buttons4-g .btn-social {
   color: #fff;
+}
+#contacts1-p P {
+  color: #000000;
 }
